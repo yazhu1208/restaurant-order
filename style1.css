@@ -1,0 +1,184 @@
+.reestar {
+    display: inline- block;
+    background-color: black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.nameofres {
+    text-align: center;
+    color: bisque;
+    font-size: 30px;
+
+}
+
+.features {
+    text-align: center;
+    color: bisque;
+    font-size: medium;
+}
+
+.salad {
+    display: inline-block;
+    vertical-align: top;
+
+    border-radius: 1px;
+    background-color: aqua;
+    height: 450px;
+}
+
+.heading1 {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.discription {
+    margin-top: none;
+    ;
+    font-size: 20px;
+}
+
+.align1 {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.order {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.noodles {
+    display: inline-block;
+
+    vertical-align: top;
+    border-radius: 1px;
+    background-color: blanchedalmond;
+    height: 450px;
+}
+
+.heading2 {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.discription1 {
+    margin-top: none;
+    ;
+    font-size: 20px;
+}
+
+.align2 {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.order {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.foody {
+    display: inline-block;
+    vertical-align: none;
+
+    border-radius: 1px;
+    background-color: rgb(119, 86, 36);
+    height: 450px;
+}
+
+.heading3 {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.discription2 {
+    margin-top: none;
+    font-size: 20px;
+}
+
+.align3 {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.order {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.cake {
+    display: inline-block;
+    vertical-align: none;
+
+    border-radius: 1px;
+    background-color: navajowhite;
+    height: 450px;
+}
+
+.heading4 {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.discription3 {
+    margin-top: none;
+    ;
+    font-size: 20px;
+    text-align: center;
+}
+
+.align4 {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.order {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.display {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+.contactfororder {
+    display:inline-block;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height:200px;
+    width: 1500px;
+   
+}
+
+.tablealign {
+    margin: auto;
+    color: white;
+}
+.submitalign{
+    display :inline-block;
+   width:500px;
+   height: 30px;
+    background-color:yellowgreen;
+    margin-top: 20px;
+}
